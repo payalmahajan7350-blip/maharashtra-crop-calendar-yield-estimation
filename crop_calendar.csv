@@ -1,0 +1,11 @@
+Crop,Season,Start_Month,Start_Day,End_Month,End_Day,Cross_Year,Boundary_Convention,Date_Provenance
+Soyabean,Kharif,6,15,10,31,False,"[start,end); five equal elapsed intervals",Study-defined analytical approximation; not observed phenology
+Cotton,Kharif,6,1,1,31,True,"[start,end); five equal elapsed intervals",Study-defined analytical approximation; not observed phenology
+Sugarcane,Annual,1,1,12,31,False,"[start,end); five equal elapsed intervals",Study-defined analytical approximation; not observed phenology
+Rice,Kharif,6,15,11,30,False,"[start,end); five equal elapsed intervals",Study-defined analytical approximation; not observed phenology
+Tur,Kharif,6,15,2,28,True,"[start,end); five equal elapsed intervals",Study-defined analytical approximation; not observed phenology
+MaizeK,Kharif,6,15,10,15,False,"[start,end); five equal elapsed intervals",Study-defined analytical approximation; not observed phenology
+GramR,Rabi,10,15,3,15,True,"[start,end); five equal elapsed intervals",Study-defined analytical approximation; not observed phenology
+WheatR,Rabi,11,1,4,15,True,"[start,end); five equal elapsed intervals",Study-defined analytical approximation; not observed phenology
+JowarR,Rabi,10,1,2,28,True,"[start,end); five equal elapsed intervals",Study-defined analytical approximation; not observed phenology
+MaizeR,Rabi,10,15,2,28,True,"[start,end); five equal elapsed intervals",Study-defined analytical approximation; not observed phenology
